@@ -17,8 +17,8 @@ I work well with Git, Git Flow, Docker and Linux for development and production 
 
 Able to adapt to new technologies, programming languages or structures / libraries.
 
-- 👨‍💻 I am currently working at FortBrasil as a junior developer, working with PHP, Node.js and Python.
-- 💻 I am currently learning Node.js, Docker and improving myself in Laravel.
-- :books: Reading Domain-Driven Design to improve my code.
+- 👨‍💻 I am currently working at FortBrasil as a junior developer, developing solutions in PHP, Node.js and Python.
+- 💻 I am studying Node.js, Docker and improving myself at Laravel.
+- :books: Reading "Domain-Driven Design" books to improve the quality of my code.
 - 😄 PHP is my favorite language, but I love learning new technologies and learning new languages.
 - 🎓 Graduating in Information Systems at Unichristus.
