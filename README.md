@@ -7,7 +7,7 @@
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
 
-My name is Kaliary and I am a full stack developer.
+My name is Kaliary and I am a Full Stack developer.
 
 Solid knowledge in planning and building web services. Applying PHP to the backend and JavaScript, HTML and CSS to the frontend.
 
