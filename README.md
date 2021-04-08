@@ -38,7 +38,7 @@
 
 ### :gear: GitHub Analytics
 <p align="center">
-  <a href="https://github.com/jpedro77">
+  <a href="https://github.com/kaliarycisne">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaliarycisne&show_icons=true&theme=tokyonight&count_private&custom_title=My&nbsp;GitHub&nbsp;Statistics" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliarycisne&layout=compact&custom_title=My&nbsp;Programming&nbsp;Languages" />
   </a>
