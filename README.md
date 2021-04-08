@@ -5,8 +5,8 @@
 
 ### :man_technologist: Aboute Me
 - :bulb: I'm a Full Stack Developer from Brazil.
-- :mortar_board:I have a bachelor's degree in Information Systems from Unichristus.
-- :seedling:I'mm trying to learn new things every day.
+- :mortar_board: I have a bachelor's degree in Information Systems from Unichristus.
+- :seedling: I'mm trying to learn new things every day.
 - :video_game: In my free time, I stay with my family, play Mobile games, watch TV series and movies.
 
 ### :zap: Skills & Tools
